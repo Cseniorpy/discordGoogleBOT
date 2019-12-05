@@ -13,9 +13,10 @@ from discord.ext import tasks
 from datetime import datetime
 
 bot = commands.Bot(command_prefix = '.')
-token1 = "NjI3ODY4MDIxNTIzNzQyNzcx.Xeajmg."
-token2 = "gzfFWiMbiKBVN5EzF5g6bXi6rpI"
-token = "{}".format(token1+token2)
+
+token1 = "NjI3ODY4MDIxNTIzNzQyNzcx.XelgyA."
+token2 = "_-MPwIcO6jNxtysFsJ5QbnTXVKg"
+token = token1+token2
 bot.remove_command(help)
 #channels = [welcome, botCommands]
 
