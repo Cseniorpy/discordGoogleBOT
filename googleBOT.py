@@ -14,9 +14,10 @@ from datetime import datetime
 
 bot = commands.Bot(command_prefix = '.')
 
-token1 = "NjI3ODY4MDIxNTIzNzQyNzcx.XelgyA."
-token2 = "_-MPwIcO6jNxtysFsJ5QbnTXVKg"
-token = token1+token2
+token1 = "NjUyNTg5MTkwMjg2MTQ3NjAz"
+token2 = "XeqpIA"
+token3 = "vy4Bar6ZOX9wc1Gz5mnJVLNmrHc"
+token = token1 + "." + token2 + "." + token3
 bot.remove_command(help)
 #channels = [welcome, botCommands]
 
