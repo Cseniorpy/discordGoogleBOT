@@ -1,1 +1,1 @@
-worker: python googleBot.py
+worker: python googleBOT.py
